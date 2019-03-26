@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/FrontController.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Function/Logic.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/ShowOrder.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Exceptions/LoginSampleException.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Function/LegoHouseCalcu.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/ShowOrders.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Data/DBConnecter.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/web/index.jsp</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/Login.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/web/index.html</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Function/User.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/Command.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/CreateOrder.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Data/UserMapper.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Data/OrderMapper.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/web/WEB-INF/customerpage.jsp</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/Register.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Function/Order.java</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/web/WEB-INF/employeepage.jsp</file>
+            <file>file:/C:/Users/J.Jabr/Documents/NetBeansProjects/Legohus/src/java/Presentation/UnknownCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
